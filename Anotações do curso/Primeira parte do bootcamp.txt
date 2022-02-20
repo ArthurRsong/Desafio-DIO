@@ -1,4 +1,4 @@
-Básico de lições compreendidas.
+Básico de lições compreendidas:
 
  - Lógica essencial de programação.
    .Lógica
