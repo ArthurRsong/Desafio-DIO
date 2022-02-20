@@ -1,0 +1,11 @@
+Básico de lições compreendidas.
+
+ - Lógica essencial de programação.
+   .Lógica
+   .Algoritmos e pseudocódigos
+   .Fluxogramas, variáveis e constantes
+   .Expressões aritméticas, literais e relacionais
+   .Concatenação
+ 
+ - Estrutura de dados e algoritmos.
+   .
