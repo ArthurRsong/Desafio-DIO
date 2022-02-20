@@ -6,6 +6,15 @@ Básico de lições compreendidas.
    .Fluxogramas, variáveis e constantes
    .Expressões aritméticas, literais e relacionais
    .Concatenação
- 
+   .Estrutura de repetição
+   .Linguagem de programação (introdução ao Portugol)
+   .Desvios condicionais
+   .Laços de repetição dentro da lógica de programação
+   .Matriz e Vetor
+   
  - Estrutura de dados e algoritmos.
-   .
+   .Estrutura de dados
+   .Arrays
+   .Registro
+   .Listas, pilhas e filas
+   .Árvore, tabela hash e grafos
